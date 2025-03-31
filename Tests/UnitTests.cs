@@ -66,7 +66,7 @@ public class Addition
             actual = Program.Divide("10", "2");
             Assert.AreEqual(expected, actual);
         }
-		public void TestMultiply_Mousa()
+	public void TestMultiply_Mousa()
         {
             // 2 * 3 should equal 6
             double expected = 6.0;
